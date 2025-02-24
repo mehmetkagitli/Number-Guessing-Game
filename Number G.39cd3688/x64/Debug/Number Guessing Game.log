@@ -1,0 +1,3 @@
+﻿  Number Guessing Game.cpp
+C:\Users\MEHMET\Desktop\Number Guessing Game\Number Guessing Game\Number Guessing Game.cpp(10,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  Number Guessing Game.vcxproj -> C:\Users\MEHMET\Desktop\Number Guessing Game\Number Guessing Game\x64\Debug\Number Guessing Game.exe
